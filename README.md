@@ -1,3 +1,7 @@
+# Link: 
+
+[https://medium.com](https://medium.com/@madithatisreedhar123/devsecops-openai-chatbot-ui-deployment-in-eks-with-jenkins-and-terraform-1100e7a9a469)
+
 # Chatbot UI
 
 The open-source AI chat app for everyone.
