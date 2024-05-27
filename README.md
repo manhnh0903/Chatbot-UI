@@ -1,6 +1,8 @@
 # Link: 
 
-[https://medium.com](https://medium.com/@madithatisreedhar123/devsecops-openai-chatbot-ui-deployment-in-eks-with-jenkins-and-terraform-1100e7a9a469)
+[https://medium.com](https://medium.com/@madithatisreedhar123/devsecops-openai-chatbot-ui-deployment-in-eks-with-jenkins-and-terraform-1100e7a9a469)   
+
+[https://mrcloudbook.com/](https://mrcloudbook.com/open-source-project-implementing-devsecops-for-openai-chatbot-ui-deployment-devsecops/)
 
 # Chatbot UI
 
